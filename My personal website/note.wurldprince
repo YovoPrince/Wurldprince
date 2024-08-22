@@ -1,0 +1,101 @@
+IN JAVASCRIPT I STOPPED AT Body
+transition: background-color .4s; /* For dark mode */
+
+========= PROJECTS =========
+.section__title-1
+Projects.
+
+.projects__subtitle
+Website
+App
+
+.projects__title
+Restaurant Website
+Coffee Delivery Website
+Barbershop Website
+Yoga App
+Fast Food App
+Link=====See more
+
+.projects__description
+Project that you carry out in the design
+and structure of the layout, showing the
+design at the client's request.
+
+.projects__buttons
+Github
+https://github.com/YovoPrince
+
+
+
+======== CONTACT ME ========
+.section__title-2
+Contact Me.
+
+.contact__description-1
+I will read all emails. Send me any
+message you want and I'll get back to you.
+
+.contact__description-2
+I need your <b>Name</b> and <b>Email Address</b>, but
+you won't receive anything other than your reply.
+
+.contact__title
+Send Me A Message
+
+.contact__label - placeholder
+First Name
+Email Address
+Subject
+Message
+
+.contact__button
+Send Message
+
+.contact__social-description-1
+Does not send emails
+
+.contact__social-description-2
+Write me on my social networks
+
+.contact__social-link
+https://www.linkedin.com/in/yovo-prince/
+https://dribbble.com/Wurldprince
+
+
+
+========= CONTACT JS =========
+// serviceID - templateID - #form - publicKey
+
+   // Show sent message
+      Message sent successfully ✅
+
+   Remove message after five seconds
+
+   // Clear input fields
+
+   // Show error message
+      Message not sent (services error) ❌
+
+Subject *
+New message from {{user_name}}
+
+Contact *
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Subject: {{user_subject}}
+
+Message: {{user_message}}
+
+Best wishes,
+Emailjs team
+
+======== FOOTER =======
+.footer__links
+About - Services - Projects
+
+.footer__copy
+&#169; All Rights Reserved By
+<a href= "">Bedimcode.</a>
